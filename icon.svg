@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <linearGradient id="svg_2">
+   <stop offset="0" stop-color="#1227e8" stop-opacity="0.99609"/>
+   <stop offset="0.99878" stop-color="#b21cb2" stop-opacity="0.99609"/>
+  </linearGradient>
+  <linearGradient id="svg_5" x1="0" x2="1" y1="0" y2="0">
+   <stop offset="0" stop-color="#e1e2ed" stop-opacity="0.99219"/>
+   <stop offset="0.99487" stop-color="#e5cee5" stop-opacity="0.99219"/>
+  </linearGradient>
+  <linearGradient id="svg_6">
+   <stop offset="0.01045" stop-color="#0909ed" stop-opacity="0.99609"/>
+   <stop offset="0.99873" stop-color="#ca0de2" stop-opacity="0.99609"/>
+  </linearGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 2</title>
+  <path d="m412.654134,-6.737326c-188.646618,170.930083 -275.714287,267.01504 -239.919801,358.042895c35.794486,91.027855 99.644111,121.370473 224.441104,96.084958c124.796993,-25.285515 73.52381,44.502507 168.330828,45.513927c41.598998,27.308356 163.493735,-20.228412 163.493735,-20.228412c0,0 -80.29574,-502.676042 -80.29574,-502.676042c0,0 -236.050127,23.262674 -236.050127,23.262674z" fill="url(#svg_2)" id="svg_1" stroke="url(#svg_6)" stroke-width="0"/>
+  <circle cx="196" cy="236" fill="url(#svg_5)" id="svg_3" opacity="0.15" r="98.081596" stroke="#f2e6e6" stroke-linecap="square" stroke-linejoin="round" stroke-width="0"/>
+  <circle cx="484.00001" cy="117" fill="url(#svg_5)" id="svg_7" opacity="0.15" r="61.081604" stroke="#f2e6e6" stroke-linecap="square" stroke-linejoin="round" stroke-width="0"/>
+  <circle cx="485" cy="81" fill="url(#svg_5)" id="svg_9" opacity="0.15" r="98.081596" stroke="#f2e6e6" stroke-linecap="square" stroke-linejoin="round" stroke-width="0"/>
+ </g>
+</svg>

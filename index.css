@@ -1,0 +1,80 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  background-color: rgb(137, 238, 123);
+}
+
+.back-image {
+  position: absolute;
+  right: 0;
+  height: 100vh;
+  width: 60vw;
+}
+.man {
+  position: absolute;
+  right: 9.2vw;
+  top: 17vh;
+}
+.right {
+  position: relative;
+  bottom: 57vh;
+}
+.main-header {
+  display: flex;
+  margin-top: 10vh;
+}
+.main-nav ul {
+  display: flex;
+  list-style: none;
+  padding-top: 1vh;
+}
+.main-nav a {
+  text-decoration: none;
+  color: rgb(236, 117, 197);
+}
+.main-nav li {
+  padding-right: 1.2rem;
+}
+.main-nav a:hover {
+  color: white;
+  background-color: rgb(167, 162, 192);
+  border-radius: 0.25rem;
+  padding: 0.25rem;
+}
+.logo {
+  padding-left: 5vw;
+  padding-top: 2.5vh;
+}
+.main-section {
+  padding-top: 10vh;
+  padding-left: 5vw;
+  font-size: 1.2rem;
+  font-weight: 1.2rem;
+  font-family: sans-serif;
+}
+.extra-text {
+  font-size: 0.9rem;
+  font-weight: 1.25rem;
+  opacity: 0.4;
+}
+.subtitle {
+  font-size: 1.2rem;
+  font-style: italic;
+  font-weight: 1.25rem;
+  opacity: 0.6;
+}
+.btn {
+  background-image: linear-gradient(rgb(39, 5, 161), rgb(194, 7, 122));
+  height: 5rem;
+  width: 10rem;
+  color: white;
+  border-radius: 10px;
+}
+.btn:hover {
+  background-image: linear-gradient(rgb(199, 12, 115), rgb(30, 4, 148));
+  color: white;
+}
